@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Varun H Suresh
+tagline:             Technical Conquests and Scrutinizations
+url:                 http://rushrunsave.github.io/
 paginate:            1
 baseurl:             ""
 
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Varun H Suresh
+  url:               https://twitter.com/rushrunsave
+  email:             vrnsrsh@gmail.com
 
 # Custom vars
 version:             2.0.0
